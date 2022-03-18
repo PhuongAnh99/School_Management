@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\bin\Debug\net5.0\School_Management.Model.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\bin\Debug\net5.0\School_Management.Model.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\bin\Debug\net5.0\School_Management.Model.runtimeconfig.dev.json
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\bin\Debug\net5.0\School_Management.Model.dll
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\bin\Debug\net5.0\ref\School_Management.Model.dll
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\bin\Debug\net5.0\School_Management.Model.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\obj\Debug\net5.0\School_Management.Model.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\obj\Debug\net5.0\School_Management.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\obj\Debug\net5.0\School_Management.Model.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\obj\Debug\net5.0\School_Management.Model.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\obj\Debug\net5.0\School_Management.Model.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\obj\Debug\net5.0\School_Management.Model.dll
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\obj\Debug\net5.0\ref\School_Management.Model.dll
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\obj\Debug\net5.0\School_Management.Model.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.Model\obj\Debug\net5.0\School_Management.Model.genruntimeconfig.cache

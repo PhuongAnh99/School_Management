@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\bin\Debug\net5.0\School_Management.BL.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\bin\Debug\net5.0\School_Management.BL.dll
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\bin\Debug\net5.0\ref\School_Management.BL.dll
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\bin\Debug\net5.0\School_Management.BL.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\bin\Debug\net5.0\School_Management.Model.dll
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\bin\Debug\net5.0\School_Management.Model.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\obj\Debug\net5.0\School_Management.BL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\obj\Debug\net5.0\School_Management.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\obj\Debug\net5.0\School_Management.BL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\obj\Debug\net5.0\School_Management.BL.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\obj\Debug\net5.0\School_Management.BL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\obj\Debug\net5.0\School_Management.BL.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\obj\Debug\net5.0\School_Management.BL.dll
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\obj\Debug\net5.0\ref\School_Management.BL.dll
+C:\Users\ADMIN\OneDrive\Desktop\Special\School_Management\School_Management.BL\obj\Debug\net5.0\School_Management.BL.pdb
